@@ -84,7 +84,7 @@ export default function Live() {
             product.map((item, index) => {
               return (
                 <div
-                  className="col-sm-12 col-md-6 col-lg-4 col-xl-3 d-flex justify-content-center  my-2 bg"
+                  className="col-sm-12 col-md-6 col-lg-3 col-xl-3 d-flex justify-content-center  my-2 bg"
                   key={item._id}
                 >
                   <div className="my-2">
